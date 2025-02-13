@@ -1,0 +1,1 @@
+package extended.testdata;public class SmokeAPITests{}
